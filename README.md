@@ -1,7 +1,5 @@
-# Ping Pong || Space Race
+# RUN-VID
 Videojuego creado por Diana Gomez y Fabian Medina
-Ping Pong:
-Remake del juego de atari del 72 en el cual el usario (p1) podrá jugar contra el compañero (p2) que tenga al lado, podrá poner su nick el p1 al igual que p2, podrá ver el score que tiene cada uno en la parte superior centrada de la pantalla, tambien tendra instrucciones antes de empezar el juego para que los players sepan que hacer al igual que un boton de start y una pantalla de win o lose dependiente de quien ganó o perdió.
-
-Space Race:
-Remake del juego de atari del 58 ; la idea es llegar a la cima del mapa evitando los aliens para ganar un punto tendrá que hacer la mayoría de puntos posibles en el periodo de tiempo que se le entrega al jugador al inicar la partida.
+RUN-VID:
+La idea es llegar a la cima del mapa evitando que el virus choque con las personas, el jugador tendrá que atravesar esos obstaculos para ganar, tendrá que hacer la mayoría de puntos posibles en el periodo de tiempo que se le entrega al jugador al inicar la partida.
+Spa
